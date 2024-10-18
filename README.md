@@ -1,2 +1,3 @@
 # Projet-Java
-Projet Java
+Projet Java effectué en première année de BTS SIO dans grâce au langage de programmation JAVA, on devait créer un projet pour une entreprise pour pouvoir gérer les salariés : les trier par type de service, consulter leurs informations, ... 
+Une petite mise à jour a été faîte début septembre (début de la 2ème année) pour rajouter une fonctionnalité avec les formations effectués par les salariés, et pouvoir en leur ajouté parmis celles qui existent. 
