@@ -1,4 +1,4 @@
-<h1>Gestion des Salariés - Projet Java</h1>h1>
+<h1>Gestion des Salariés - Projet Java</h1>
 
 Ce projet a été réalisé dans le cadre de la première année de BTS SIO. Grâce au langage de programmation Java, l’objectif était de développer une application pour une entreprise permettant de gérer les salariés. Voici les principales fonctionnalités initiales et les évolutions apportées :
 
