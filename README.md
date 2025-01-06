@@ -4,7 +4,7 @@ Une petite mise à jour a été faîte début septembre (début de la 2ème ann�
 
 1 - Mettre le connecteur et le jCalendar 
 
-Pour que le projet marche il faut que vous mettiez le fichier .jar (jCalendar) et le connecteur situés tout deux dans le dossier RESSOURCES du projet. 
+Pour que le projet marche il faut que vous mettiez le fichier .jar (jCalendar) et le connecteur situés tout deux dans le dossier <strong>Ressources nécéssaires</strong> du projet. 
 
 2 - Lancement SQL 
 
